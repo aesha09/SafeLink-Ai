@@ -1,0 +1,7 @@
+Flask
+scikit-learn
+python-whois
+python-nmap
+requests
+Pillow
+gunicorn
